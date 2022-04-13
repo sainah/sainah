@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sainah
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning Flask
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any JavaScript, php, html, css or related projects.
 - 📫 How to reach me, dont.  Just kidding, mail me on dev.saina321@gmail.com.
 
